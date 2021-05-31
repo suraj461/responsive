@@ -1,0 +1,19 @@
+.pic img {
+  height: 300px;
+  width: 200px;
+}
+.headings {
+  font-size: 1.7rem;
+}
+.intro h2 {
+  font-size: 1.5rem;
+}
+.box {
+  height: 300px;
+  width: 200px;
+  justify-content: center;
+}
+.gallery img{
+  height: 240px;
+  width: 200px;
+  margin: 40px;
